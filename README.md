@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Zain, I'm an Electronics & Embedded Systems Engineer interested in developing Embedded Circuits & Firmware!
 - 🔭 I’m currently learning Electromagnetic Compatibility and Mixed-Signal Design.
-- 🌱 I recently developed a LoRa based Mesh Network for Infrastructure Constrained Environments using Zephyr RTOS, check it out [here](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)
+- 🌱 I recently developed a LoRa Mesh Network for Infrastructure Constrained Environments using Zephyr RTOS, check it out [here](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)
 - 👯 I’m looking to collaborate on Embedded Systems project development.
   - Send ideas to byteandboards@gmail.com 
 <!--
